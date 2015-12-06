@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\prayyaga\PersonalWorkspace\FacebookWorkspace\PriyaFBLoginWParse\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\prayyaga\PersonalWorkspace\FacebookWorkspace\PriyaFBLoginWParse\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-0856a60a7ecc0919c7614540903b05956010fb88.jar" />
+    </item>
+    <item
+        jar="C:\Users\prayyaga\PersonalWorkspace\FacebookWorkspace\PriyaFBLoginWParse\libs\ParseFacebookUtilsV4-1.10.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="30f5f2c4ac77cfa3b5584766e3e40503bd927ae9">
+        <dex dex="C:\Users\prayyaga\PersonalWorkspace\FacebookWorkspace\PriyaFBLoginWParse\build\intermediates\pre-dexed\debug\ParseFacebookUtilsV4-1.10.3-63c447aca2388f020f5e33b179555fc435ccef0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\prayyaga\PersonalWorkspace\FacebookWorkspace\PriyaFBLoginWParse\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40da745b1ae1f5b7562242e27dbc91a6b0fab3e9">
+        <dex dex="C:\Users\prayyaga\PersonalWorkspace\FacebookWorkspace\PriyaFBLoginWParse\build\intermediates\pre-dexed\debug\classes-6f2d43af66c1b31675f8db605ab56932e3971fca.jar" />
+    </item>
+    <item
+        jar="C:\Users\prayyaga\PersonalWorkspace\FacebookWorkspace\PriyaFBLoginWParse\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\prayyaga\PersonalWorkspace\FacebookWorkspace\PriyaFBLoginWParse\build\intermediates\pre-dexed\debug\classes-49d1ff69567ec153fe3134bb3ce11d43072a7d08.jar" />
+    </item>
+    <item
+        jar="C:\Users\prayyaga\PersonalWorkspace\FacebookWorkspace\PriyaFBLoginWParse\libs\bolts-android-1.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="C:\Users\prayyaga\PersonalWorkspace\FacebookWorkspace\PriyaFBLoginWParse\build\intermediates\pre-dexed\debug\bolts-android-1.2.1-3798472c38b76bfa27e0e1b408c7f36ee2b50f00.jar" />
+    </item>
+    <item
+        jar="C:\Users\prayyaga\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\prayyaga\PersonalWorkspace\FacebookWorkspace\PriyaFBLoginWParse\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-0cf122945f86a98ab93f8483a40e2108043ad78a.jar" />
+    </item>
+    <item
+        jar="C:\Users\prayyaga\android-sdks\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\prayyaga\PersonalWorkspace\FacebookWorkspace\PriyaFBLoginWParse\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-bf87e54a69450902ac81d4f270b34a25e6f45134.jar" />
+    </item>
+    <item
+        jar="C:\Users\prayyaga\PersonalWorkspace\FacebookWorkspace\PriyaFBLoginWParse\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\prayyaga\PersonalWorkspace\FacebookWorkspace\PriyaFBLoginWParse\build\intermediates\pre-dexed\debug\classes-ae240f54f12ea6b6e64be10d1430f812e78d9cf3.jar" />
+    </item>
+    <item
+        jar="C:\Users\prayyaga\PersonalWorkspace\FacebookWorkspace\PriyaFBLoginWParse\libs\Parse-1.10.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dfef23b83f8434c6e881096e1ac6d54dc3e52041">
+        <dex dex="C:\Users\prayyaga\PersonalWorkspace\FacebookWorkspace\PriyaFBLoginWParse\build\intermediates\pre-dexed\debug\Parse-1.10.3-1f6fb85c95c1dcfe6c1c64d74ee41373b9fd45af.jar" />
+    </item>
+
+</items>
